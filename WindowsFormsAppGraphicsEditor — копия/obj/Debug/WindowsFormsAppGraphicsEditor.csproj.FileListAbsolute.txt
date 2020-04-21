@@ -1,0 +1,28 @@
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\bin\Debug\WindowsFormsAppGraphicsEditor.exe.config
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\bin\Debug\WindowsFormsAppGraphicsEditor.exe
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\bin\Debug\WindowsFormsAppGraphicsEditor.pdb
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.FormEditorWindow.resources
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.exe
+C:\Users\Xiaomi\source\repos\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.pdb
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\bin\Debug\WindowsFormsAppGraphicsEditor.exe.config
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\bin\Debug\WindowsFormsAppGraphicsEditor.exe
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\bin\Debug\WindowsFormsAppGraphicsEditor.pdb
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.FormEditorWindow.resources
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.exe
+C:\Users\Xiaomi\source\repos\C#\WindowsFormsAppGraphicsEditor\obj\Debug\WindowsFormsAppGraphicsEditor.pdb
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\obj\Debug\WindowsFormsAppGraphicsEditor.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\obj\Debug\WindowsFormsAppGraphicsEditor.exe
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\obj\Debug\WindowsFormsAppGraphicsEditor.pdb
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\bin\Debug\WindowsFormsAppGraphicsEditor.exe.config
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\bin\Debug\WindowsFormsAppGraphicsEditor.exe
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\bin\Debug\WindowsFormsAppGraphicsEditor.pdb
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\obj\Debug\WindowsFormsAppGraphicsEditor.FormEditorWindow.resources
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\obj\Debug\WindowsFormsAppGraphicsEditor.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\obj\Debug\WindowsFormsAppGraphicsEditor.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\C#\2\WindowsFormsAppGraphicsEditor — копия\obj\Debug\WindowsFormsAppGraphicsEditor.csproj.CoreCompileInputs.cache
