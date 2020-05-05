@@ -16,7 +16,7 @@ namespace WindowsFormsAppGraphicsEditor
         {
             formatter = new BinaryFormatter();
         }
-        public void Serialize(string file, List<Figure> ListOfFigures)
+        public void Serialize(string file, Dictionary<int, Figure> ListOfFigures)
         {
 
             using (FileStream FileToSerialize = new FileStream(file, FileMode.OpenOrCreate))
@@ -33,24 +33,19 @@ namespace WindowsFormsAppGraphicsEditor
             }
 }
 
-        public void Deserialize(string file, Graphics tempDrawing, Graphics permanentDrawing, Pen pen, out List<Figure> ListOfFigures)
+        public void Deserialize(string file, out Dictionary<int, Figure> ListOfFigures)
         {
             try
             {
                 using (FileStream FileToDeserialize = new FileStream(file, FileMode.Open))
                 {
-                    ListOfFigures = (List<Figure>)formatter.Deserialize(FileToDeserialize);
-                    foreach (var tempFigure in ListOfFigures)
-                    {
-                        tempFigure.DrawFigure(tempDrawing, pen);
-                        tempFigure.DrawFigure(permanentDrawing, pen);
-                    }
+                    ListOfFigures = (Dictionary<int, Figure>)formatter.Deserialize(FileToDeserialize);
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, "Ошибка загрузки");
-                ListOfFigures = new List<Figure>();
+                ListOfFigures = new Dictionary<int, Figure>();
             }
         }
     }

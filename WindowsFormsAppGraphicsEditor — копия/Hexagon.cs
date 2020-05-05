@@ -6,7 +6,7 @@ namespace WindowsFormsAppGraphicsEditor
     [Serializable]
     class Hexagon : Polygon
     {
-        public Hexagon() : base(6)
+        public Hexagon(Color c) : base(6, c)
         {
         }
         public void ChangeCoords()
@@ -27,6 +27,7 @@ namespace WindowsFormsAppGraphicsEditor
         public override void DrawFigure(Graphics page, Pen pen)
         {
             ChangeCoords();
+            pen.Color = color;
             page.DrawPolygon(pen, list_of_vertexes_coords);
         }
     }

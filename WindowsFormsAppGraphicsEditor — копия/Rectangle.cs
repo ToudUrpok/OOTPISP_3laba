@@ -7,7 +7,7 @@ namespace WindowsFormsAppGraphicsEditor
     [Serializable]
     class Rectangle : Polygon
     {
-        public Rectangle() : base(4)
+        public Rectangle(Color c) : base(4, c)
         {
         }
         public void ChangeCoords()
@@ -24,6 +24,7 @@ namespace WindowsFormsAppGraphicsEditor
         public override void DrawFigure(Graphics page, Pen pen)
         {
             ChangeCoords();
+            pen.Color = color;
             page.DrawRectangle(pen, list_of_vertexes_coords[0].X, list_of_vertexes_coords[0].Y, Abs(list_of_vertexes_coords[2].X - list_of_vertexes_coords[0].X), Abs(list_of_vertexes_coords[2].Y - list_of_vertexes_coords[0].Y));
         }
     }

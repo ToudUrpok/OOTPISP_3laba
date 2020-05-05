@@ -6,7 +6,7 @@ namespace WindowsFormsAppGraphicsEditor
     [Serializable]
     class Triangle : Polygon
     {
-        public Triangle () : base(3)
+        public Triangle (Color c) : base(3, c)
         {
         }
         public void ChangeCoords()
@@ -21,6 +21,7 @@ namespace WindowsFormsAppGraphicsEditor
         public override void DrawFigure(Graphics page, Pen pen)
         {
             ChangeCoords();
+            pen.Color = color;
             page.DrawPolygon(pen, list_of_vertexes_coords);
         }
     }
