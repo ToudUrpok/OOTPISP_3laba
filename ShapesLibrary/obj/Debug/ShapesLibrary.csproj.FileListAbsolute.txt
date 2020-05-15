@@ -1,0 +1,5 @@
+C:\Users\Xiaomi\source\repos\C#\ООП\3\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\C#\ООП\3\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Users\Xiaomi\source\repos\C#\ООП\3\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Users\Xiaomi\source\repos\C#\ООП\3\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Users\Xiaomi\source\repos\C#\ООП\3\ShapesLibrary\obj\Debug\ShapesLibrary.pdb
